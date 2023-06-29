@@ -1,3 +1,4 @@
+Let's begin!
 Ingredients:
 Any 1 or mix of vegetable(s) of your choice (Cabbage, Carrots, Spinach, Beans) - 1 lb finely minced
 Split skinless green grams(Moong dhal) - 3 tbsp
@@ -10,3 +11,5 @@ Fresh Coconut grated - 2 tbsp
 Fennel seeds -  2 tsp
 water - 1 cup
 salt as required
+
+Enjoy my recipe!
