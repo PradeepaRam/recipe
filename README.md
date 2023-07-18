@@ -12,7 +12,7 @@
 **making first commit**
 *making second commit*
 
-(C:\Users\prade\Documents\DataScience_tool_box\recipe\recipe.jpg)
+![recipe](\Documents\DataScience_tool_box\recipe\recipe.jpg)
 
 Creating 3 rd commit from main
 Creating 4 th commit from main
