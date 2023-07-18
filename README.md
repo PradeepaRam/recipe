@@ -9,8 +9,8 @@
 -Second in the unordered list
 -Third in the unordered list
 
-making first commit
-making second commit
+**making first commit**
+*making second commit*
 
 Creating 3 rd commit from main
 Creating 4 th commit from main
